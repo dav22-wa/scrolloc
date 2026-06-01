@@ -1,0 +1,6 @@
+{
+  "name": "ScrollLock",
+  "description": "A powerful digital wellbeing monitoring and automatic screen time locker that prevents endless scrolling on addictive social media applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
